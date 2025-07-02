@@ -7,7 +7,7 @@ public class sum {
             sum += mark;
         }
         System.out.println("The sum of marks is: " + sum);
-    }
+    } 
 }
 
 
