@@ -74,10 +74,20 @@ public class Location {
         {
             return postalcode;
         }
-        
-        
+        @Override
+        public String toString(){
+            return "Location{
+                name:"+name+
+                ",Latitude:"+latitude+
+                ",Longitude:"+longitude+
+                ",Description:"+description+
+                ",Country:"+country+
+                ",City:"+city+
+                ",Address:"+address+
+                ",Postalcode:"+postalcode+
+                "}";
+            }
+}        
 
-
-    }
 
 
