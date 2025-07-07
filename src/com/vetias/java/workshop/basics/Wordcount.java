@@ -10,8 +10,6 @@ public class Wordcount {
         System.out.println(sentenceCount);
         String letter[]=sentence.split("\\.");
         int letterCount=letter.length;
-        System.out.println(letterCount);
-
-
+        System.out.println(letterCount);    
     }
 }
