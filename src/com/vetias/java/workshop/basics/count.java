@@ -4,10 +4,6 @@ public class count {
         String[] words = sentence.split(" ");
         int num=words.length;
         System.out.println(num);
-        
-
-    
-    
     }
-    
+
 }
