@@ -1,4 +1,4 @@
-package com.vetias.java.workshop.basics.array;
+package com.vetias.java.workshop.basics;
 import java.util.Arrays;
 
 public class twodimensional {
