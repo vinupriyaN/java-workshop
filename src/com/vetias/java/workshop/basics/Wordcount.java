@@ -12,4 +12,5 @@ public class Wordcount {
         int letterCount=letter.length;
         System.out.println(letterCount);    
     }
+    
 }
