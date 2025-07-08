@@ -8,6 +8,6 @@ public class Registrationtimeleft {
         int minutesLeft=registrationendtime.getMinute()- currentTime.getMinute();
         int secondsLeft=registrationendtime.getSecond()- currentTime.getSecond();
         System.out.println("you have" + hoursLeft + " hours, " + minutesLeft + " minutes, " + secondsLeft + " seconds");
-         // 5:
+        
     }
 }
