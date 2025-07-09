@@ -1,3 +1,4 @@
+package com.vetias.java.workshop.basics;
 public class Calculator {
     public int add(int a, int b) {
         return a + b;
