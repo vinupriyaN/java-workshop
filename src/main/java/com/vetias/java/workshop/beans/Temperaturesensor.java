@@ -1,3 +1,4 @@
+package com.vetias.java.workshop.beans;
 public class Temperaturesensor implements Sensor {
 
     private float temperature;

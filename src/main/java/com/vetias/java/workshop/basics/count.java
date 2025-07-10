@@ -1,3 +1,4 @@
+package com.vetias.java.workshop.basics;
 public class count {
     public static void main(String[] args) {
         String  sentence= "this program show how can we split a string into multiple strings";
