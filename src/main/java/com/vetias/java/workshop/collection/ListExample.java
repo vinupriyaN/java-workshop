@@ -15,6 +15,9 @@ public class ListExample {
         names.add("Grace");
         System.out.println("Names List: " + names);
         names.set(2, "Chuck"); 
+        names.remove(4);
+        names.add(1, "Bella");
+        names.contains("Alice");
         System.out.println("Updated Names List: " + names); 
         for (String name : names) 
         {
