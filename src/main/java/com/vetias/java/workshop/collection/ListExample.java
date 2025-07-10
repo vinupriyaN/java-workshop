@@ -14,6 +14,8 @@ public class ListExample {
         names.add("Frank");
         names.add("Grace");
         System.out.println("Names List: " + names);
+        names.set(2, "Chuck"); 
+        System.out.println("Updated Names List: " + names); 
         for (String name : names) 
         {
             System.out.println("Name: " + name);
