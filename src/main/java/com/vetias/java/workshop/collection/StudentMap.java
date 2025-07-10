@@ -12,6 +12,8 @@ public class StudentMap {
         students.put(104, "David");
         students.put(105, "Eve");
         System.out.println("Student Map: " + students);
+        System.out.println(students.keySet());
+        System.out.println(students.values());
 
     }
     
