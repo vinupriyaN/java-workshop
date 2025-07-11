@@ -27,6 +27,7 @@ public class ListExample {
         {
             System.out.println("Name at index " + i + ": " + names.get(i));
         }
+        names.forEach(System.out::println);
     }
     
 }
